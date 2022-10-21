@@ -1,4 +1,4 @@
-# Тестовое задание на позицию младшего-разработчика С++
+# Тестовое задание на позицию младшего разработчика С++
 
 ## Описание
 
@@ -31,7 +31,7 @@
 ## Как начать
 
 
-1. Склонируйте проект на ваш компьютер:
+1. Склонируйте репозиторий на ваш компьютер:
 
     `git clone --recurse-submodules -j8 https://github.com/vglaznev/inobitec-entry-task.git`
 
@@ -39,7 +39,7 @@
 
     `cd inobitec-entry-task`
 
-    `git submodule update --init --recursive`
+    `git submodule update --init`
 
 2.  Войдите в корень проекта:
 
