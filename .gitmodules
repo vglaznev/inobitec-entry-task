@@ -1,0 +1,6 @@
+[submodule "inobitec-entry-task-client"]
+	path = inobitec-entry-task-client
+	url = https://github.com/vglaznev/inobitec-entry-task-client
+[submodule "inobitec-entry-task-server"]
+	path = inobitec-entry-task-server
+	url = https://github.com/vglaznev/inobitec-entry-task-server
