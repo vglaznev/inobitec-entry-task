@@ -53,10 +53,10 @@
 
 ---
 
-    Клиента:
+Клиента:
 
-    ![alt text](img/client.png)
+![alt text](img/client.png?raw=true)
 
-    Сервера:
+Сервера:
 
-    ![alt text](img/server.png)
+![alt text](img/server.png?raw=true)
